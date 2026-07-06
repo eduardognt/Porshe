@@ -7,7 +7,7 @@ function Intro() {
   ];
 
   return (
-    <section className="bg-black py-20 px-6">
+    <section className="bg-black py-20 px-6 porsche-font">
       <div className="max-w-5xl mx-auto text-center">
         <h1 className="text-6xl md:text-8xl font-bold mb-6">Porsche Taycan</h1>
         <p className="text-2xl md:text-4xl mb-4 text-gradient font-bold">

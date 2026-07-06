@@ -10,7 +10,7 @@
   body {
     color: #fff;
     background-color: #000;
-    font-family: "Orbitron";
+    font-family: "Stack Sans Text";
   }
 
   html {
@@ -28,5 +28,9 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+  }
+
+  .porsche-font {
+    font-family: "Orbitron";
   }
 }
