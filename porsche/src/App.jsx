@@ -7,6 +7,8 @@ import "./App.css";
 import Hero from "./Components/Hero";
 import Intro from "./Components/Intro";
 import Highlights from "./Components/Highlights";
+import Colors from "./Components/Colors";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <Hero />
       <Intro />
       <Highlights />
+      <Colors />
+      <Footer />
     </>
   );
 }
