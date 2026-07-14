@@ -12,7 +12,7 @@ function Highlights() {
           <div className="bg-gray-900 rounded-3xl p-8">
             <img
               className="w-full rounded-2xl mb-4"
-              src="../src/assets/images/Pvermelha.jfif"
+              src="images/Pvermelha.jfif"
               alt=""
             />
             <h3 className="font-bold mb-2 text-3xl">Essência</h3>
@@ -21,7 +21,7 @@ function Highlights() {
           <div className="bg-gray-900 rounded-3xl p-8">
             <img
               className="w-full rounded-2xl mb-4"
-              src="../src/assets/images/Porsche 911 22_.jfif"
+              src="images/Porsche 911 22_.jfif"
               alt=""
             />
             <h3 className="font-bold mb-2 text-3xl">Inovação moderna</h3>
@@ -36,7 +36,7 @@ function Highlights() {
           </p>
           <img
             className="w-full rounded-2xl mb-4"
-            src="../src/assets/images/PGT3.jfif"
+            src="images/PGT3.jfif"
             alt=""
           />
 

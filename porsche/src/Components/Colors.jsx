@@ -5,19 +5,19 @@ function Colors() {
     {
       id: "purple",
       name: "Lorettapurple",
-      image: "../src/assets/images/purple.png",
+      image: "images/purple.png",
       colorClass: "bg-purple-900",
     },
     {
       id: "orange",
       name: "Cadimiumorange",
-      image: "../src/assets/images/morange.png",
+      image: "images/morange.png",
       colorClass: "bg-amber-700",
     },
     {
       id: "green",
       name: "Acidgreen",
-      image: "../src/assets/images/limegreen.png",
+      image: "images/limegreen.png",
       colorClass: "bg-lime-400",
     },
   ];
